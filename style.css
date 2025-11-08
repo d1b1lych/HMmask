@@ -1,0 +1,202 @@
+body {
+    font-family: sans-serif;
+    background-image:url(https://kartinki.pics/uploads/posts/2021-07/thumbs/1625251466_7-kartinkin-com-p-khotlain-maiami-fon-krasivie-foni-7.png);
+}
+
+h1 {
+    text-align: center;
+}
+img{
+    border-radius:10px;
+}
+hedaer{
+
+}
+
+.Mask{
+    display:flex;
+    align-items: flex-end;
+     margin-top:20px;
+     background-image:linear-gradient(to top, red, orange);
+     border-radius:10px;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Cantarell:400,700italic);
+
+body {
+  background-image:url(https://kartinki.pics/uploads/posts/2021-07/thumbs/1625251466_7-kartinkin-com-p-khotlain-maiami-fon-krasivie-foni-7.png);
+}
+
+h1 {
+  color: cyan;
+  font-family: 'Cantarell', sans-serif;
+  font-size: 3em; /* зменшено */
+  font-weight: bold;
+  font-style: italic;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  -webkit-text-stroke: 3px #FF001F; /* тонший контур */
+  -webkit-animation: hotline-miami 3.5s ease-out infinite;
+}
+
+@-webkit-keyframes hotline-miami {
+  
+  15% {
+    margin-left: 0;
+    text-shadow: none;
+  }
+  
+  45%, 55% {
+    margin-left: 1.25em;
+    -webkit-text-stroke: 3px #FFF;
+    text-shadow:
+    -4px 0 #fff,
+    -8px 0 #FFE6E9,
+    -12px 0 #FFD4DA,
+    -16px 0 #FCBCC5,
+    -20px 0 #FEA9B6,
+    -24px 0 #FC95A6,
+    -28px 0 #FF8297,
+    -32px 0 #FF738B,
+    -36px 0 #FF647E,
+    -40px 0 #FF516E,
+    -44px 0 #FF3F5F,
+    -48px 0 #FF2D50,
+    -52px 0 #FF2045,
+    -56px 0 #FC143A,
+    -60px 0 #FC0C34,
+    -64px 0 #FF001F;
+  }
+  
+}
+
+@import url(https://fonts.googleapis.com/css?family=Cantarell:400,700italic);
+
+
+
+p {
+  color: cyan;
+  font-family: 'Cantarell', sans-serif;
+  font-size: 1.5em; /* збільшено в 1.5 рази */
+  font-weight: bold;
+  font-style: italic;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  -webkit-text-stroke: 2px #FF001F; /* трохи товстіший контур */
+  -webkit-animation: hotline-miami 3.5s ease-out infinite;
+}
+
+@-webkit-keyframes hotline-miami {
+  
+  15% {
+    margin-left: 0;
+    text-shadow: none;
+  }
+  
+  45%, 55% {
+    margin-left: 1.25em;
+    -webkit-text-stroke: 2px #FFF;
+    text-shadow:
+    -2px 0 #fff,
+    -4px 0 #FFE6E9,
+    -6px 0 #FFD4DA,
+    -8px 0 #FCBCC5,
+    -10px 0 #FEA9B6,
+    -12px 0 #FC95A6,
+    -14px 0 #FF8297,
+    -16px 0 #FF738B,
+    -18px 0 #FF647E,
+    -20px 0 #FF516E,
+    -22px 0 #FF3F5F,
+    -24px 0 #FF2D50,
+    -26px 0 #FF2045,
+    -28px 0 #FC143A,
+    -30px 0 #FC0C34,
+    -32px 0 #FF001F;
+  }
+  
+}
+.nav-link{
+  background-image:linear-gradient(to top, red, orange);
+  border-radius:5px;
+  text-decoration:none;
+  color:white;
+  font-size:20px;
+  padding:10px;
+}
+@import url(https://fonts.googleapis.com/css?family=Cantarell:400,700italic);
+
+
+
+.nav-link:hover {
+  color: cyan;
+  font-family: 'Cantarell', sans-serif;
+  font-size: 1em; /* ще менше в 3 рази */
+  font-weight: bold;
+  font-style: italic;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  -webkit-text-stroke: 1px #FF001F; /* тонкий контур */
+  -webkit-animation: hotline-miami 3.5s ease-out infinite;
+  animation: rotateLeftRight 3s ease-in-out infinite alternate;
+    display: inline-block;
+    text-align: center;
+}
+
+@keyframes rotateLeftRight {
+    from {
+      transform: rotate(-5deg); /* вліво */
+    }
+    to {
+      transform: rotate(5deg);  /* вправо */
+    }
+  }
+
+@-webkit-keyframes hotline-miami {
+  
+  15% {
+    margin-left: 0;
+    text-shadow: none;
+  }
+  
+  45%, 55% {
+    margin-left: 1.25em;
+    -webkit-text-stroke: 1px #FFF;
+    text-shadow:
+    -1px 0 #fff,
+    -2px 0 #FFE6E9,
+    -3px 0 #FFD4DA,
+    -4px 0 #FCBCC5,
+    -5px 0 #FEA9B6,
+    -6px 0 #FC95A6,
+    -7px 0 #FF8297,
+    -8px 0 #FF738B,
+    -9px 0 #FF647E,
+    -10px 0 #FF516E,
+    -11px 0 #FF3F5F,
+    -12px 0 #FF2D50,
+    -13px 0 #FF2045,
+    -14px 0 #FC143A,
+    -15px 0 #FC0C34,
+    -16px 0 #FF001F;
+  }
+  
+}
+h3{
+  color:white;
+  align-items: right;
+}
+h1 {
+    animation: rotateLeftRight 3s ease-in-out infinite alternate;
+    display: inline-block;
+    text-align: center;
+  }
+
+ @keyframes rotateLeftRight {
+    from {
+      transform: rotate(-5deg); /* вліво */
+    }
+    to {
+      transform: rotate(5deg);  /* вправо */
+    }
+  }
